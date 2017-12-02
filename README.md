@@ -25,3 +25,12 @@ An example of using transmission-fluid to control Transmission queue, manage see
   * Leave files where they are (downloads/complete/torrents)
   
   Run by cron every 30 minutes.
+
+# TODO
+
+* Publish download status to MQTT
+* Integrate with Home Assistant
+  * Track new downloads
+  * Notify of new music
+  * Send new music to media players
+* Scripts to create playlists & play new music automatically, ie. New This Week/Month
